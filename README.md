@@ -1,10 +1,10 @@
-### Hi there, I'm Victor Alzorriz 👋
+## Hi there, I'm Victor Alzorriz 👋
 
 [![Gmail Contact](https://img.shields.io/badge/Contact%20victoralzorriz@gmail.com-Gmail-C71610?link=https://www.linkedin.com/in/victor-alzorriz/&logo=gmail&logoColor=white&style=for-the-badge)](mailto:victoralzorriz@gmail.com)
 [![LinkedIn Follow](https://img.shields.io/badge/Follow%20%40Victor--Alzorriz-LinkedIn-0e76a8?link=https://www.linkedin.com/in/victor-alzorriz/&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/victor-alzorriz/?locale=en_US)
 [![Twitter Follow](https://img.shields.io/badge/Follow%20%40VictorAlzorriz-Twitter-1DA1F2?&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FVictorAlzorriz&screen_name=VictorAlzorriz)
 
-## Something about me!
+### Something about me!
 
 - 📚 I’m a Computer Science student in the European University of Madrid
 - 🏡 Currently living in Madrid, Spain
@@ -22,7 +22,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][null]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
 [<img align="left" alt="Jupyter Notebooks" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />][null]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][null]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][null]
